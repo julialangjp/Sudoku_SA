@@ -32,4 +32,4 @@ SA法では近似解を求めているので、必ずしも正解でない場合
 
 ## 参照
 　次のページに簡単な解説を書きました。  
-　　  [数独をSAで解いてみる(julialang.jp)](https://julialang.jp/2022/05/12/sudoku/)
+　　  [数独をSAで解いてみる](https://leadinge.co.jp/julialang/2022/05/12/sudoku/)
